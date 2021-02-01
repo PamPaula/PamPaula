@@ -1,4 +1,11 @@
-### Hi there 👋
+# Olá!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e também professora de Inglês. 
+Amo aprender coisas novas e agora a programação é meu novo relacionamento. 😋
+
+Se quiser me conhecer melhor, aqui estão algumas de minhas redes:
+👩🏻‍💻 <a href="https://www.linkedin.com/in/pamela-de-paula-santos-831395129/">LinkedIn</a>
+👨🏻‍🎨 <a href="https://www.instagram.com/Pammia_/">Instagram</a>
 
 <!--
 **PamPaula/PamPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
