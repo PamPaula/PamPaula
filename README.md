@@ -4,7 +4,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e também professora de 
 Amo aprender coisas novas e agora a programação é meu novo relacionamento. 😋
 
 Se quiser me conhecer melhor, aqui estão algumas de minhas redes:
+<br>
 👩🏻‍💻 <a href="https://www.linkedin.com/in/pamela-de-paula-santos-831395129/">LinkedIn</a>
+<br>
 👨🏻‍🎨 <a href="https://www.instagram.com/Pammia_/">Instagram</a>
 
 <!--
