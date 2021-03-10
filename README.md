@@ -1,6 +1,6 @@
 # Olá!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e também professora de Inglês. 
+Sou estudante de Análise e Desenvolvimento de Sistemas. 
 Amo aprender coisas novas e agora a programação é meu novo relacionamento. 😋
 
 Se quiser me conhecer melhor, aqui estão algumas de minhas redes:
