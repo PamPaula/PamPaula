@@ -1,6 +1,7 @@
 # Olá!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. 
+E também sou Starter na GFT Group.
 Amo aprender coisas novas e agora a programação é meu novo relacionamento. 😋
 
 Se quiser me conhecer melhor, aqui estão algumas de minhas redes:
